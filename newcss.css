@@ -1,0 +1,12 @@
+.jumbotron {
+    background: url(userfiles/logo.png);
+    background-size: contain;
+}
+
+.booking {
+    border: solid black 2px;
+    padding-left: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #dddddd;
+   
+}
